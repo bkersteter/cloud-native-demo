@@ -13,6 +13,6 @@ This demo was built to run on a Mac so your mileage may vary on Windows or other
 - Additional Python Libraries:  tweepy, psycopg, kafka-python
 - Apache Kafka 1.0.0
 - Apache Zookeeper (latest version)
-- Postgres 9.5
+- Postgres 10.3
 
 In addition, in order to work with the Twitter API to search and grab tweets, you'll need to have a valid twitter account and set up the consumer keys and access tokens through https://apps.twitter.com.  
