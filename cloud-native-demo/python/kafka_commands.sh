@@ -1,4 +1,4 @@
-tart Services
+#Start Services
 
 brew services start postgresql
 brew services start zookeeper
