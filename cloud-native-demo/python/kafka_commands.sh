@@ -1,3 +1,6 @@
+#  This is just a listing of command-line stuff used to start the demo up and get it running.  not meant to be an executable program.
+
+
 #Start Services
 
 brew services start postgresql
